@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="code-backup">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/code-backup/01-docker-file-maven-plugin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/code-backup/03-fabric8-docker-plugin-using-dockerfile.zip!/" />
+      <root url="jar://$PROJECT_DIR$/code-backup/02-jib.zip!/" />
+      <root url="jar://$PROJECT_DIR$/code-backup/04-fabric8-docker-plugin-xml-configuration.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
